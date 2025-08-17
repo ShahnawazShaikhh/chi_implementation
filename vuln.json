@@ -1,0 +1,16 @@
+{
+    "violations": [
+        {
+            "issue_id": "XRAY-PHP-001",
+            "summary": "CVE-2024-7777 in symfony/http-foundation",
+            "severity": "High",
+            "components": ["pkg:composer/symfony/http-foundation@5.4.0"]
+        },
+        {
+            "issue_id": "XRAY-PHP-002",
+            "summary": "CVE-2024-6666 in psr/log",
+            "severity": "Critical",
+            "components": ["pkg:composer/psr/log@1.1.4"]
+        }
+    ]
+}
